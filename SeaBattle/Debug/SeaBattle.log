@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  SeaBattle.cpp
+c:\users\andrew\dropbox\programming\visualstudio\projects\seabattle\seabattle\seabattle.cpp(1046): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SeaBattle.vcxproj -> C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\SeaBattle\Debug\SeaBattle.exe
+  SeaBattle.vcxproj -> C:\Users\Andrew\Dropbox\Programming\VisualStudio\Projects\SeaBattle\Debug\SeaBattle.pdb (Partial PDB)
